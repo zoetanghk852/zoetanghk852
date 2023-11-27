@@ -7,7 +7,7 @@
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:zoetang852@gmail.com)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 #### Web Development:
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
