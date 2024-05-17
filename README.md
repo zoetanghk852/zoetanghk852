@@ -1,7 +1,6 @@
 - 👋 Hi, I’m zoe
 - 👀 I’m interested in  Web Development and Data Analytics
 - 🌱 I’m currently learning reactjs
-- ⚡ Fun fact **I love coding.**
 - 📫 Feel free to reach out to me
 
 ## 🌐 Socials:
